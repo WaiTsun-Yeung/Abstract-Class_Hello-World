@@ -1,7 +1,9 @@
-# Hello World CPP CMake
+# Abstract Class Hello World CPP CMake
 
 ## Introduction
-A cross-platform hello-world application created with cpp and cmake, with optional gprof profiling for Linux systems.
+A cross-platform hello-world application created with cpp and cmake 
+to demonstrate how to use an abstract class, 
+with optional gprof profiling for Linux systems.
 
 ## Dependencies
 N/A

@@ -4,7 +4,7 @@
     #include "printables.hpp"
 
     namespace hello_world{
-        class HelloWorld : printables::Printables{
+        class HelloWorld final : printables::Printables{
             public:
                 void print() const override;
         };

@@ -6,6 +6,7 @@
     namespace hello_world{
         class HelloWorld final : printables::Printables{
             public:
+                ~HelloWorld() override;
                 void print() const override;
         };
     }

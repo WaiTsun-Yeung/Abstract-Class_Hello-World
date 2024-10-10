@@ -5,7 +5,7 @@
         class Printables{
             public:
                 Printables();
-                ~Printables();
+                virtual ~Printables();
                 virtual void print() const = 0;
         };
     }
